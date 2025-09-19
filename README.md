@@ -34,4 +34,6 @@ Save this README as README.md in the same folder.
 
 Open index.html in your web browser.
 
+Click buttons or use keyboard shortcuts to perform calculations
+
 Click buttons or use keyboard shortcuts to perform calculations.
