@@ -1,39 +1,22 @@
-DOM Calculator
+# Calculator Project
 
-A simple calculator built with HTML, CSS, and JavaScript to practice:
+A simple, aesthetic calculator built with HTML, CSS, and JavaScript.
 
-DOM manipulation
+## Features
 
-Event handling (click and keyboard)
+- Basic arithmetic operations: addition, subtraction, multiplication, division
+- Clear and equals functions
+- Responsive and modern pastel design
 
-Basic arithmetic operations
+## How to Run
 
-Input parsing & error handling
+1. Clone or download this repository.
+2. Open `index.html` in your web browser.
 
-Features
+## Folder Structure
 
-Supports +, -, *, /, and decimal calculations
+- `index.html` – Main HTML file
+- `style.css` – Styles for the calculator
+- `script.js` – Calculator logic
 
-Handles keyboard input:
 
-Numbers and operators (+ - * / .)
-
-Enter to calculate
-
-Backspace to delete
-
-C to clear display
-
-Simple, responsive design
-
-How to Use
-
-Download or create the project files (index.html, style.css, script.js).
-
-Save this README as README.md in the same folder.
-
-Open index.html in your web browser.
-
-Click buttons or use keyboard shortcuts to perform calculations
-
-Click buttons or use keyboard shortcuts to perform calculations.
